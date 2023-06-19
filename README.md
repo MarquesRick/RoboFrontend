@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+<a href="https://www.linkedin.com/in/henri-marques/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/37425086?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Henrique Marques</b></sub></a> <a href="https://www.linkedin.com/in/henri-marques/" title="Linkedin">🧑🏻‍💻
+ </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Feito por Henrique Marques 👋🏽!
 
-## Available Scripts
+[![Twitter Badge](https://img.shields.io/badge/-@Henrimarques18-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Henrimarques18)](https://twitter.com/Henrimarques18) [![Linkedin Badge](https://img.shields.io/badge/-Henrique_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henri-marques/)](https://www.linkedin.com/in/henri-marques/)
+[![Gmail Badge](https://img.shields.io/badge/-henmarques-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henmarques2009@gmail.com)](mailto:henmarques2009@gmail.com)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+<h1 align="center">R.O.B.O Frontend </h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h1 align="center">
+    <a href="https://it.legacy.reactjs.org/versions/">🔗 React 18.2.0</a>
+</h1>
+<p align="center">🚀 Simples frontend desenvolvido em React e TypeScript</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ✔️ Algumas dicas para utilizar
 
-### `npm test`
+- `Realizar o download das dependências via npm`:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+  # acessar o diretório do projeto
+  cd {LOCAL_DIRETORIO_DO_PROJETO}
 
-### `npm run build`
+  # executar o comando para realizar o download das dependências
+  npm i
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  # após o download das dependências rodar a aplicação
+  npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- `Rodar o projeto da API (backend) antes de rodar o frontend, para evitar falhas`: <a href="https://github.com/MarquesRick/RoboAPI">🔗 Link do projeto </a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ℹ️ Infos adicionais
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[React](https://legacy.reactjs.org/docs/getting-started.html) <br/>
+[TypeScript](https://www.typescriptlang.org/docs/)<br/>
+[React-toastify](https://fkhadra.github.io/react-toastify/introduction)
